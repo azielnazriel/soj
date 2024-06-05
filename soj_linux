@@ -14,7 +14,7 @@ USERS_FILE="users.txt"
 # Fungsi untuk menampilkan menu utama (landing page)
 show_landing_page() {
     echo "============================"
-    echo "Library Management System"
+    echo "My Library"
     echo "============================"
     echo "1. Login Admin"
     echo "2. Login Pengunjung"
